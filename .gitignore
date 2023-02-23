@@ -1,3 +1,5 @@
 /lib/
 /.idea/
-HiveSessions2.iml
+/HiveSessions2.iml
+/target/
+/.idea/
