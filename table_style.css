@@ -1,0 +1,18 @@
+table {
+	border-collapse: collapse;
+	table-layout: fixed;
+	width: 100%;
+}
+th {
+	background-color: #ccccff
+}
+table, td, th {
+	border: 1px solid black;
+	padding: 2px;
+	overflow: hidden;
+	white-space: nowrap;
+	vertical-align: top;
+}
+td.sql {
+	font: normal 13px Times New Roman;
+}
